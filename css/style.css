@@ -8,22 +8,27 @@ body {
   height:30px;
   text-align:right;
   background-color:#000;
-
+  position: relative;
 }
 #player h3 {
   color: #fff;
   display:inline-block;
-  float:left;
+  position: absolute;
+  top: 10px;
+  left: 15px;
   margin: 0;
   padding: 0;
   line-height: 30px;
 }
 
-
+#notes {
+  padding: 30px 20px;
+  line-height:30px;
+}
 #soundboard a {
   display:inline-block;
-  margin: 10px;
-  width: 160px;
+  margin:  15px 0 0 15px;
+  width: 140px;
   height: 80px;
   line-height: 70px;
   text-align: center;
