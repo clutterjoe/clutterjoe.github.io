@@ -1,0 +1,1 @@
+Automated smack-talking for pingpong tournament night.
