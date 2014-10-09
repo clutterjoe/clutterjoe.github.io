@@ -38,10 +38,6 @@
     },
     "clips": [
       {
-        "name": "2001 - Jeopardize the Mission",
-        "file": "audio/Good_Shot/2001-mission.mp3"
-      },
-      {
         "name": "Apocolypse Now - Horror",
         "file": "audio/Good_Shot/apocalypse-horror.mp3"
       },
@@ -210,14 +206,6 @@
         "file": "audio/Luck_BS/12angry-dishonesty.mp3"
       },
       {
-        "name": "Back to the Future - You can do anything",
-        "file": "audio/Luck_BS/backtothefuture-anything.mp3"
-      },
-      {
-        "name": "Barbarella",
-        "file": "audio/Luck_BS/barbarella_enough.mp3"
-      },
-      {
         "name": "Batman - Filthy Criminals",
         "file": "audio/Luck_BS/batman-criminals.mp3"
       },
@@ -250,20 +238,12 @@
         "file": "audio/Luck_BS/office_space_tps3.mp3"
       },
       {
-        "name": "Oz - Ashames",
+        "name": "Oz - Ashamed",
         "file": "audio/Luck_BS/oz-ashamed.mp3"
       },
       {
         "name": "Plan 9 from Outer Space - Prove it!",
         "file": "audio/Luck_BS/plan9-prove.mp3"
-      },
-      {
-        "name": "Star Wars - Give yourself to the dark side",
-        "file": "audio/Luck_BS/starwars-dark_side2_y.mp3"
-      },
-      {
-        "name": "Star Wars - Lack of faith",
-        "file": "audio/Luck_BS/starwars-lack_of_faith.mp3"
       }
     ]
   },
@@ -273,6 +253,18 @@
       "code": "77"
     },
     "clips": [
+      {
+        "name": "Back to the Future - You can do anything",
+        "file": "audio/Luck_BS/backtothefuture-anything.mp3"
+      },
+      {
+        "name": "Star Wars - Lack of faith",
+        "file": "audio/Luck_BS/starwars-lack_of_faith.mp3"
+      },
+      {
+        "name": "Star Wars - Give yourself to the dark side",
+        "file": "audio/Luck_BS/starwars-dark_side2_y.mp3"
+      },
       {
         "name": "Batman - Music",
         "file": "audio/Good_Shot/batman_music_sfx.mp3"
