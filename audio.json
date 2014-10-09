@@ -1,0 +1,420 @@
+{
+  "Start": {
+    "hotkey": {
+      "key": "s",
+      "code": "83"
+    },
+    "clips": [
+      {
+        "name": "Batman Theme",
+        "file": "audio/Start/batman_theme_x.mp3"
+      },
+      {
+        "name": "Fight!",
+        "file": "audio/Start/mortal-kombat-fight.mp3"
+      },
+      {
+        "name": "Pacman",
+        "file": "audio/Start/pacman_intro.mp3"
+      },
+      {
+        "name": "Rocky",
+        "file": "audio/Start/rocky-trumpets.mp3"
+      },
+      {
+        "name": "Star Trek",
+        "file": "audio/Start/startrek-space.mp3"
+      },
+      {
+        "name": "War Games",
+        "file": "audio/Start/wargames-play_a_game.mp3"
+      }
+    ]
+  },
+  "Good Shot": {
+    "hotkey": {
+      "key": "g",
+      "code": "71"
+    },
+    "clips": [
+      {
+        "name": "2001 - Jeopardize the Mission",
+        "file": "audio/Good_Shot/2001-mission.mp3"
+      },
+      {
+        "name": "Apocolypse Now - Horror",
+        "file": "audio/Good_Shot/apocalypse-horror.mp3"
+      },
+      {
+        "name": "Back to the Future",
+        "file": "audio/Good_Shot/backtothefuture-great_scott.mp3"
+      },
+      {
+        "name": "Bladerunner",
+        "file": "audio/Good_Shot/bladerunner_seen_things.mp3"
+      },
+      {
+        "name": "Yo!",
+        "file": "audio/Good_Shot/brando-yo.mp3"
+      },
+      {
+        "name": "Butch Cassidy",
+        "file": "audio/Good_Shot/butch_who_are_they.mp3"
+      },
+      {
+        "name": "Casablanca",
+        "file": "audio/Good_Shot/casablanca-looking1.mp3"
+      },
+      {
+        "name": "Citizen Kane - Hey",
+        "file": "audio/Good_Shot/citizenkane-hey.mp3"
+      },
+      {
+        "name": "Fasttimes",
+        "file": "audio/Good_Shot/fasttimes-gnarly.mp3"
+      },
+      {
+        "name": "Homeymooners",
+        "file": "audio/Good_Shot/honeymooners-bang_zoom.mp3"
+      },
+      {
+        "name": "Mr T. Shut up fool!",
+        "file": "audio/Good_Shot/mrt-a-team_shut_up_fool_x.mp3"
+      },
+      {
+        "name": "Mr. T I don't think so!",
+        "file": "audio/Good_Shot/mrt-a-team_think_so.mp3"
+      },
+      {
+        "name": "Oz - Bad Man",
+        "file": "audio/Good_Shot/oz-bad_man.mp3"
+      },
+      {
+        "name": "Princess Bride",
+        "file": "audio/Good_Shot/princessbride-inconceivable.mp3"
+      },
+      {
+        "name": "Pulp Fiction - Big Brain",
+        "file": "audio/Good_Shot/pulpfiction-big_brain.mp3"
+      },
+      {
+        "name": "Roadhouse - Expect the Unexpected",
+        "file": "audio/Good_Shot/roadhouse-expect.mp3"
+      },
+      {
+        "name": "Rocky 4 - Destroys",
+        "file": "audio/Good_Shot/Rocky4-whatever-he-hits-he-destroys.mp3"
+      },
+      {
+        "name": "Star Trek - Dazzling Logic",
+        "file": "audio/Good_Shot/startrek-logic_dazzling.mp3"
+      },
+      {
+        "name": "Star Trek - Logical",
+        "file": "audio/Good_Shot/startrek-logical.mp3"
+      },
+      {
+        "name": "Star Wars - Taught you well",
+        "file": "audio/Good_Shot/starwars-taught_u_well.mp3"
+      },
+      {
+        "name": "Star Wars - I am your father",
+        "file": "audio/Good_Shot/starwars-your_father.mp3"
+      }
+    ]
+  },
+  "Bad Shot": {
+    "hotkey": {
+      "key": "b",
+      "code": "66"
+    },
+    "clips": [
+      {
+        "name": "12 Angry Men - No Answer",
+        "file": "audio/Bad_Shot/12angry-answer.mp3"
+      },
+      {
+        "name": "2001 - Upset",
+        "file": "audio/Bad_Shot/2001-upset.mp3"
+      },
+      {
+        "name": "Agassi - Weird",
+        "file": "audio/Bad_Shot/agassi-that_was_weird.mp3"
+      },
+      {
+        "name": "Airplane - Wrong Week 1",
+        "file": "audio/Bad_Shot/airplane-wrong_week1.mp3"
+      },
+      {
+        "name": "Airplane - Wrong Week 2",
+        "file": "audio/Bad_Shot/airplane-wrong_week2.mp3"
+      },
+      {
+        "name": "Airplane - Wrong Week 3",
+        "file": "audio/Bad_Shot/airplane-wrong_week3.mp3"
+      },
+      {
+        "name": "Airplane - Wrong Week 4",
+        "file": "audio/Bad_Shot/airplane-wrong_week4.mp3"
+      },
+      {
+        "name": "Back to the Future - Careless",
+        "file": "audio/Bad_Shot/backtothefuture-careless.mp3"
+      },
+      {
+        "name": "Oz - Brain Failure",
+        "file": "audio/Bad_Shot/oz-brain_failure.mp3"
+      },
+      {
+        "name": "Pulp Fiction - Concentration",
+        "file": "audio/Bad_Shot/pulpfiction-break_x.mp3"
+      },
+      {
+        "name": "Roadhouse - Pain",
+        "file": "audio/Bad_Shot/roadhouse-pain.mp3"
+      },
+      {
+        "name": "Star Trek - No Life Forms",
+        "file": "audio/Bad_Shot/startrek-2-2_who_mourns_no_life.mp3"
+      },
+      {
+        "name": "Star Trek - Brain gone",
+        "file": "audio/Bad_Shot/startrek-3-1_brain_is_gone.mp3"
+      },
+      {
+        "name": "Star Trek - What in blazes?",
+        "file": "audio/Bad_Shot/startrek-blazes3.mp3"
+      },
+      {
+        "name": "Star Wars - Failed for last time",
+        "file": "audio/Bad_Shot/starwars-for_the_last_time.mp3"
+      },
+      {
+        "name": "Star Wars - Pointless to resist",
+        "file": "audio/Bad_Shot/starwars-pointless.mp3"
+      },
+      {
+        "name": "Terminator 3",
+        "file": "audio/Bad_Shot/t3_cpu.mp3"
+      }
+    ]
+  },
+  "Luck / BS": {
+    "hotkey": {
+      "key": "l",
+      "code": "76"
+    },
+    "clips": [
+      {
+        "name": "12 Angry Men - Dishonesty",
+        "file": "audio/Luck_BS/12angry-dishonesty.mp3"
+      },
+      {
+        "name": "Back to the Future - You can do anything",
+        "file": "audio/Luck_BS/backtothefuture-anything.mp3"
+      },
+      {
+        "name": "Barbarella",
+        "file": "audio/Luck_BS/barbarella_enough.mp3"
+      },
+      {
+        "name": "Batman - Filthy Criminals",
+        "file": "audio/Luck_BS/batman-criminals.mp3"
+      },
+      {
+        "name": "Blues Brothers - Mission from God",
+        "file": "audio/Luck_BS/bluesbrothers-mission1.mp3"
+      },
+      {
+        "name": "Caddyshack - Sucks",
+        "file": "audio/Luck_BS/caddyshack-this_place_sucks.mp3"
+      },
+      {
+        "name": "Citizen Kane - Funny",
+        "file": "audio/Luck_BS/citizenkane-funny.mp3"
+      },
+      {
+        "name": "Dr. Strangelove - Computers",
+        "file": "audio/Luck_BS/drstrangelove-computer_complex.mp3"
+      },
+      {
+        "name": "Dr. Strangelove - Explanation",
+        "file": "audio/Luck_BS/drstrangelove-explanation.mp3"
+      },
+      {
+        "name": "Heston - Cheater",
+        "file": "audio/Luck_BS/heston-omega_man_cheat.mp3"
+      },
+      {
+        "name": "Office Space - TPS",
+        "file": "audio/Luck_BS/office_space_tps3.mp3"
+      },
+      {
+        "name": "Oz - Ashames",
+        "file": "audio/Luck_BS/oz-ashamed.mp3"
+      },
+      {
+        "name": "Plan 9 from Outer Space - Prove it!",
+        "file": "audio/Luck_BS/plan9-prove.mp3"
+      },
+      {
+        "name": "Star Wars - Give yourself to the dark side",
+        "file": "audio/Luck_BS/starwars-dark_side2_y.mp3"
+      },
+      {
+        "name": "Star Wars - Lack of faith",
+        "file": "audio/Luck_BS/starwars-lack_of_faith.mp3"
+      }
+    ]
+  },
+  "Match Point": {
+    "hotkey": {
+      "key": "m",
+      "code": "77"
+    },
+    "clips": [
+      {
+        "name": "Batman - Music",
+        "file": "audio/Good_Shot/batman_music_sfx.mp3"
+      },
+      {
+        "name": "Batman - Escape",
+        "file": "audio/Match_Point/batman-can_batman_escape.mp3"
+      },
+      {
+        "name": "Batman - To the Batcave",
+        "file": "audio/Match_Point/batman-to-the-batcave.mp3"
+      },
+      {
+        "name": "Casablanca - Go ahead",
+        "file": "audio/Match_Point/casablanca-go_ahead.mp3"
+      },
+      {
+        "name": "Hunt for Red October",
+        "file": "audio/Match_Point/hunt-4_red_one_in_three.mp3"
+      },
+      {
+        "name": "MJ - Wheaties",
+        "file": "audio/Match_Point/jordan-my_wheaties.mp3"
+      },
+      {
+        "name": "Jonny Mnemonic",
+        "file": "audio/Match_Point/mnemonic-reeves_johnny_computer.mp3"
+      },
+      {
+        "name": "Mortal Kombat - Finish him!",
+        "file": "audio/Match_Point/mortal-kombat-finish-him.mp3"
+      },
+      {
+        "name": "Officer and a Gentleman",
+        "file": "audio/Match_Point/officer-dont_do_it.mp3"
+      },
+
+      {
+        "name": "Oz - You musn't",
+        "file": "audio/Match_Point/oz-cant_mustnt.mp3"
+      },
+      {
+        "name": "Plan 9 from Outer Space - Destroy",
+        "file": "audio/Match_Point/plan9-destroy.mp3"
+      },
+      {
+        "name": "Plan 9 from Outer Space - God help us",
+        "file": "audio/Match_Point/plan9-god_help.mp3"
+      },
+
+      {
+        "name": "Robin - Holy mashed",
+        "file": "audio/Match_Point/robin-holy_mashed_potatoes.mp3"
+      },
+      {
+        "name": "Robocop",
+        "file": "audio/Match_Point/robocop-robocop_dead_or_alive.mp3"
+      },
+      {
+        "name": "Rocky 4 - Break you",
+        "file": "audio/Match_Point/Rocky4-i-must-break-you.mp3"
+      },
+      {
+        "name": "Star Trek - No escape",
+        "file": "audio/Match_Point/startrek-no_escape.mp3"
+      },
+      {
+        "name": "Star Trek - Ominous music",
+        "file": "audio/Match_Point/startrek-ominous.mp3"
+      },
+      {
+        "name": "Star Wars - Bad feeling",
+        "file": "audio/Match_Point/starwars-bad_feeling.mp3"
+      },
+      {
+        "name": "Star Wars - Do or do not",
+        "file": "audio/Match_Point/starwars-do_or_do_not.mp3"
+      }
+    ]
+  },
+  "End" : {
+    "hotkey": {
+      "key": "e",
+      "code": "69"
+    },
+    "clips": [
+      {
+        "name": "2001 - Completed",
+        "file": "audio/End/2001-completed.mp3"
+      },
+      {
+        "name": "2001 - Enjoyable game",
+        "file": "audio/End/2001-enjoyable_game.mp3"
+      },
+      {
+        "name": "Aliens - Game over",
+        "file": "audio/End/aliens_game_over2.mp3"
+      },
+      {
+        "name": "Back to the Future - Erased",
+        "file": "audio/End/backtothefuture-erased.mp3"
+      },
+      {
+        "name": "Batman - end",
+        "file": "audio/End/bat-time_x.mp3"
+      },
+      {
+        "name": "Caddyshack - All she wrote",
+        "file": "audio/End/caddyshack-all_she_wrote.mp3"
+      },
+      {
+        "name": "Conan",
+        "file": "audio/End/conan-best_in_life.mp3"
+      },
+      {
+        "name": "Cosell - Down goes Frasier!",
+        "file": "audio/End/cosell-down_goes_frazier_x.mp3"
+      },
+      {
+        "name": "Ferris Bueller",
+        "file": "audio/End/ferrisbueller-still_here1.mp3"
+      },
+      {
+        "name": "Highlander",
+        "file": "audio/End/highlander-only_one.mp3"
+      },
+      {
+        "name": "Pacman dies",
+        "file": "audio/End/pacman_dies_y.mp3"
+      },
+      {
+        "name": "Star Trek - Khan!",
+        "file": "audio/End/startrek-2khan.mp3"
+      },
+      {
+        "name": "Terminator - I'll be back",
+        "file": "audio/End/t1_be_back.mp3"
+      },
+      {
+        "name": "On the Waterfront - Contender",
+        "file": "audio/End/waterfront-i-could-have-been-a-contender-I-could-have-been-somebody.mp3"
+      }
+    ]
+  }
+}
